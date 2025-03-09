@@ -103,6 +103,6 @@ theme: next
 deploy:
   type: git
 
-  repo: git@github.com:PMexeggcute/PMexeggcute.github.io.git
+  repo: git@github.com/PMexeggcute/Pmexeggcute.github.io.git
 
   branch: main
